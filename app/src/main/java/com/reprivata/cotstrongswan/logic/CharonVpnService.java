@@ -4,6 +4,7 @@
  * Copyright (C) 2012 Ralf Sager
  * HSR Hochschule fuer Technik Rapperswil
  * Copyright (C) 2018-2019 Jason C.H
+ * Copyright (C) 2021 Reprivata
  *
  * This program is free software; you can redistribute it and/or modify it
  * under the terms of the GNU General Public License as published by the
