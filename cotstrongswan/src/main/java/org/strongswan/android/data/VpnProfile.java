@@ -14,6 +14,10 @@
  * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
  * or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License
  * for more details.
+ *
+ * This file has been modified from its original version.
+ * Original source code seen here
+ * <https://github.com/strongswan/strongswan/tree/master/src/frontends/android>.
  */
 
 package org.strongswan.android.data;
