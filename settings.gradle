@@ -1,0 +1,2 @@
+include ':cotstrongswan'
+rootProject.name = "cotstrongswan"
